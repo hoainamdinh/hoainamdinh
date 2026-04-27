@@ -1,4 +1,4 @@
-<h1 align="center">Đinh Hoài Nam</h1>
+<h1 align="center">Hoai Nam Dinh</h1>
 
 <h4 align="center">Data Science Student & AI Enthusiast</h4>
 
