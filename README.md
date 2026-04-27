@@ -60,31 +60,31 @@
   <tr>
     <td width="50%">
       <strong>🌟 NextSkill AI (GDG Hackathon)</strong><br />
-      Nền tảng cá nhân hóa học tập sử dụng AI nhằm thu hẹp khoảng cách kỹ năng giữa sinh viên và thị trường lao động.
+      An AI-driven personalized learning platform designed to bridge the skill gap between academia and the evolving labor market.
     </td>
     <td width="50%">
       <strong>📊 Amazon Product Recommender</strong><br />
-      Hệ thống gợi ý sản phẩm sử dụng Machine Learning để tối ưu hóa trải nghiệm người dùng dựa trên hành vi mua sắm.
+      A Machine Learning-based recommendation engine that optimizes user experience by analyzing historical shopping behavior and preferences.
     </td>
   </tr>
   <tr>
     <td>
-      <strong>🐘 Hadoop for Big Data</strong><br />
-      Triển khai và tối ưu hóa xử lý dữ liệu lớn với hệ sinh thái Hadoop, tập trung vào hiệu suất tính toán.
+      <strong>🐘 Hadoop for Big Data Learning</strong><br />
+      A streamlined, production-ready Hadoop environment setup. Pre-configured for students to simplify deployment while maintaining architectural integrity for real-world simulation.
     </td>
     <td>
       <strong>🤖 Youtube Sentilyzer</strong><br />
-      Công cụ phân tích cảm xúc (Sentiment Analysis) từ comment Youtube để hiểu phản ứng của cộng đồng.
+      An automated Sentiment Analysis tool that processes YouTube comments to quantify community reactions and audience engagement.
     </td>
   </tr>
   <tr>
     <td>
-      <strong>🕷️ FB Crawler Page/Group</strong><br />
-      Hệ thống tự động hóa thu thập dữ liệu từ mạng xã hội phục vụ cho việc phân tích xu hướng và data mining.
+      <strong>🕷️ FB Crawler (Pages & Groups)</strong><br />
+      A robust data mining system for automated social media scraping, enabling trend forecasting and large-scale social data analysis.
     </td>
     <td>
       <strong>🎮 RL Grid World</strong><br />
-      Demo giải thuật Reinforcement Learning giúp agent tìm đường tối ưu trong môi trường lưới.
+      A demonstration of Reinforcement Learning algorithms, featuring an autonomous agent trained to find optimal paths within a grid environment.
     </td>
   </tr>
 </table>
